@@ -30,4 +30,4 @@ THEN I am presented with a modal prompting me to submit a complete address
 ![Screenshot of rendered weather forecast](./assets/images/rendered-weather-forecast.png)
 
 ## Link to Deployed Application
-This application is deployed to [GitHub Pages](https://dawsofd.github.io/project1-group5)
+This application is deployed to [GitHub Pages](https://dawsofd.github.io/openstreet-weather-dashboard/)
